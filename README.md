@@ -1,6 +1,6 @@
  # 🌺 Hi, I'm Ashley also "Ngozi"!
-👋🏾 Welcome to my **Cybersecurity, Vulnerability & Risk Management, and Cloud Security Portfolio!**
-- 
+ 👋🏾 Welcome to my **Cybersecurity, Vulnerability & Risk Management, and Cloud Security Portfolio!**
+
 
  ## 📌 About Me  
 Cybersecurity professional with experience supporting federal and enterprise environments across
