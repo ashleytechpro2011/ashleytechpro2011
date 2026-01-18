@@ -1,1 +1,81 @@
-
+Vulnerability Management Policy
+1. Policy Overview
+This policy establishes the framework for managing vulnerabilities within Stark Industries’ IT
+infrastructure to uphold the security, confidentiality, and integrity of critical systems and data. It outlines
+a structured approach to the timely identification, evaluation, and remediation of security threats, in
+support of Stark Industries’ mission to lead innovation while maintaining operational resilience.
+The policy was developed to proactively strengthen the organization's security posture by addressing
+identified gaps in its vulnerability lifecycle. It provides a formal foundation for the launch of Stark
+Industries’ Vulnerability Management Program (VMP), aligning technical remediation efforts with
+business risk and regulatory requirements.
+Through this program, Stark Industries commits to implementing a repeatable, risk-based process that
+enables rapid response to vulnerabilities while ensuring collaboration across security, IT, compliance,
+and business stakeholders.
+2. Scope
+This policy applies to all IT assets owned or operated by Stark Industries’, including:
+● Servers (physical on-premises and virtual cloud-based)
+● Endpoints (such as laptops, workstations, and mobile devices)
+● Network hardware (such as routers, switches, firewalls)
+● Software applications (such as platforms, internally customized, third-party, and middleware)
+All employees, contractors, subsidiaries, and third-party vendors responsible for the use, operation,
+management, or security of these assets of Stark Industries’ digital infrastructure are required to comply
+with this policy.
+3. Roles and Responsibilities
+● Chief Information Security Officer (CISO):
+○ Provides oversight of the Vulnerability Management Program (VMP).
+○ Ensures compliance with this policy and reports risk trends to senior leadership.
+● Chief Information Officer (CIO):
+○ Integrates vulnerability management with Stark Industries’ overall IT strategy and
+infrastructure roadmap.
+● Department Heads:
+○ Ensures team compliance with remediation timelines and security procedures.
+○ Support coordination with IT and Security teams during mitigation efforts.
+● IT and Security Teams:
+○ Performs routine and ad-hoc vulnerability scans.
+○ Triages findings and coordinates timely remediation.
+○ Maintains vulnerability tracking and documentation.
+4. Vulnerability Scan Schedule
+● Routine Scans: Conduct monthly scans of all IT assets using approved vulnerability scanning
+tools (e.g., Tenable, Qualys) to identify vulnerabilities.
+● Ad-Hoc Scans: Perform in response to major security alerts, zero-day vulnerabilities, emerging
+threats, or system changes.
+● Post-Incident Scans: Initiated after confirmed security incidents to assess exposure and validate
+fixes
+5. Remediation Schedule and Cadence
+Remediation timelines are based on the Common Vulnerability Scoring System (CVSS):
+Severity CVSS Score Range Remediation Timeline
+Critical 9.0 – 10.0 Within 48 hours.
+High 7.0 – 8.9 Within 7 calendar days.
+Medium 4.0 – 6.9 Within 30 calendar days.
+Low 0.1 – 3.9 Within 90 calendar days, or during the next standard
+maintenance cycle.
+6. Maintenance Plans
+● Routine Patching: Apply operating system and application security patches and updates on a
+scheduled monthly basis.
+● Emergency Patching: Initiate within 24-48 hours for critical vulnerabilities that pose immediate
+risks.
+● Emergency Mitigation: Deploy temporary controls (e.g., firewall rules, access restrictions,
+segmentation) to protect against vulnerabilities when patching is not immediately possible.
+● Unpatchable Assets: Implement segmentation, increase monitoring, or plan phased removal from
+the environment for unsupported or high-risk systems (e.g., legacy systems that cannot be
+patched due to compatibility issues or vendor support limitations).
+7. Non-Compliance Consequences
+Failure to comply with this policy may result in the following:
+● Immediate review of procedures, non-compliant systems or processes.
+● Mandatory security retraining for involved personnel.
+● Escalation to senior management and potential disciplinary action, including termination in cases
+of gross negligence or misconduct.
+9. Review and Revision
+This policy will be reviewed annually or sooner if necessary to accommodate changes in business
+processes or to address emerging threats.
+8. Sign-Off
+Chief Information Security Officer (CISO)
+Sign: ____________________________________ Date: ____________________________________
+Chief Information Officer (CIO)
+Sign: ____________________________________ Date: ____________________________________
+Chief Executive Officer (CEO)
+Sign: ____________________________________ Date: ____________________________________
+Document Control
+● Version: 1.0 (Draft)
+● Date:
+● Author: Ashley “Ngozi” U
