@@ -27,7 +27,7 @@ an emphasis on **secure AWS architectures, identity and access management, and t
 ---
 
 ## 🎯 Featured Projects: 
-> Security initiatives and Cloud Engineering efforts reflecting real-world operational environments
+>  
 
 🔍 **[Vulnerability Management Program Implementation](https://github.com/ashleytechpro2011/vulnerability-management-program/)**
 - Designed and documented a full lifecycle process, including policy creation, vulnerability scanning, remediation tracking, and executive reporting.
