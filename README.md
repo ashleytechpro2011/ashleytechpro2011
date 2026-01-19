@@ -29,11 +29,15 @@ an emphasis on **secure AWS architectures, identity and access management, and t
 ## 🎯 Featured Projects: 
 >  
 
-🔍 **[Vulnerability Management Program Implementation](https://github.com/ashleytechpro2011/vulnerability-management-program/)**
+⚠️ **[Vulnerability Management Program Implementation](https://github.com/ashleytechpro2011/vulnerability-management-program/)**
 - Designed and documented a full lifecycle process, including policy creation, vulnerability scanning, remediation tracking, and executive reporting.
 - Designed and deployed a full vulnerability management program using Tenable.
 - Includes policy creation, scan scheduling, report analysis, and risk-based prioritization.
 - Simulates stakeholder communication and remediation workflows to reflect enterprise operations.
+
+  🔍 **[Windows 10 STIG Remediation Repository](https://github.com/ashleytechpro2011/Win10-STIG-Remediation)**  
+  Identified, remediated, and verified Windows 10 security misconfigurations based on the DISA STIG guidelines using Tenable and automated PowerShell scripts.
+
 
 **🚨 Threat Hunting & IOC Investigations** 
 - Threat scenarios built in a live cyber range environment using Microsoft Defender for Endpoint and KQL.
