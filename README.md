@@ -27,10 +27,9 @@ an emphasis on **secure AWS architectures, identity and access management, and t
 ---
 
 ## 🎯 Featured Projects: 
-> Security initiatives and engineering efforts reflecting real-world operational environments
+> Security initiatives and Cloud Engineering efforts reflecting real-world operational environments
 
-**🔍 Vulnerability Management with Tenable**
-- **[Vulnerability Management Program Implementation](https://github.com/ashleytechpro2011/vulnerability-management-program/)**
+🔍 **[Vulnerability Management Program Implementation](https://github.com/ashleytechpro2011/vulnerability-management-program/)**
 - Designed and documented a full lifecycle process, including policy creation, vulnerability scanning, remediation tracking, and executive reporting.
 - Designed and deployed a full vulnerability management program using Tenable.
 - Includes policy creation, scan scheduling, report analysis, and risk-based prioritization.
