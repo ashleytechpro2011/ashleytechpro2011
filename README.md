@@ -35,7 +35,7 @@ an emphasis on **secure AWS architectures, identity and access management, and t
 - Includes policy creation, scan scheduling, report analysis, and risk-based prioritization.
 - Simulates stakeholder communication and remediation workflows to reflect enterprise operations.
 
-  🔍 **[Windows 10 STIG Remediation Repository](https://github.com/ashleytechpro2011/Win10-STIG-Remediation)**  
+🔍 **[Windows 10 STIG Remediation Repository](https://github.com/ashleytechpro2011/Win10-STIG-Remediation)**  
   Identified, remediated, and verified Windows 10 security misconfigurations based on the DISA STIG guidelines using Tenable and automated PowerShell scripts.
 
 
